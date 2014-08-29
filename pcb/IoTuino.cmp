@@ -1,0 +1,10 @@
+Cmp-Mod V01 Created by Cvpcb (2014-04-12 BZR 4800)-product   date = vie 29 ago 2014 10:06:20 COT
+
+BeginCmp
+TimeStamp = /5400AB10;
+Reference = U1;
+ValeurCmp = Atmega32u4-xumu;
+IdModule  = SMD:QFN-44-1EP;
+EndCmp
+
+EndListe
